@@ -1,0 +1,40 @@
+----- PROJECT DESCRIPTION -----
+acos is just another unix-inspired OS; it'll probably never be usable but hey...
+it's fun
+
+goals (just to have something to aim for):
+readability
+configurability
+stability
+brevity when not sacrificing readability
+
+there may be better goals to aim for depending on use case, but these best
+encapsulate the code I like using/reading
+
+I plan to use Common Lisp or Haskell for higher-level programs where possible
+(maybe for some of the application suite?) for educational purposes
+
+
+----- BORING INFO -----
+development updates will be posted on <marklauf yt>
+
+docs can be found as ascii diagrams throughout the codebase or under the man dir
+
+acos is under the 2-clause BSD license (see LICENSE)
+
+FreeBSD code styling is followed with some very slight modifications (see STYLE)
+
+
+----- COLLABORATION -----
+I don't want to make a code-of-conduct as that seems sorta authoritative,
+especially for an open-source BSD-licensed project. The only thing I'll say is
+to respect people's boundaries. If you think someone is a 'snowflake' who can't
+take jokes, for example, don't bring that into the project; just collaborate
+with people who are comfortable with those jokes and don't make the more fragile
+feel bad (and vice-versa).
+
+that aside, all pull reqs are welcome!
+email me any time at aarocerr@gmail.com for acos questions, recommendations,
+rants, or anything you please
+
+I hope to foster a community even though it's unlikely :) (pls I'm very lonely)
